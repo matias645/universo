@@ -1,0 +1,15 @@
+body
+{
+  padding: 10px;
+  margin: 40px;
+  font-size: 24px;
+  font-family: Gabriola;
+  background-image: url(https://c4.wallpaperflare.com/wallpaper/706/1/198/stars-colorful-galaxy-space-planet-universe-saturn-planet-display-wallpaper-preview.jpg);
+color:white;
+}
+
+nav
+{
+  background-color: white;
+  padding: 0px;
+  color:blue
